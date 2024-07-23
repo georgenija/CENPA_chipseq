@@ -69,7 +69,7 @@ A) Open the script file and change the 1st part of the script which mentions dir
 - files=" ~/path/to/folder/Files/fastq"
 - home_dir=" ~/path/to/folder/Results" 
 - scripts=" ~/path/to/folder/Scripts"
-- t2t_index=" ~/path/to/folder/t2t_files/UCSC/indexfiles/GCA_009914755.4.chrNames.fa" #make sure your fa file is indexed
+- t2t_index=" ~/path/to/folder/Files/t2t_files/UCSC/indexfiles/GCA_009914755.4.chrNames.fa" #make sure your fa file is indexed
 
 ###### Path to CSV file containing your ChIP and Input information
 csv_path="${scripts}/Inputfile.csv" #Should have a header
