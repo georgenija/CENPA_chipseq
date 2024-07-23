@@ -1,7 +1,7 @@
-# CENPA_chipseq
+# Centeromeric_chipseq_analysis
 ### Analysis pipeline for mapping ChIP-Seq to the new T2T assembly
 
-The following are the instructions for running the ChIP-seq pipeline for CENP-A peak calling
+The following are the instructions for running the ChIP-seq analysis pipeline for centromeric protein peak calling
 
 ----------------------------------------------------------------------------------------------------------------
 ## 1. Directory set up
